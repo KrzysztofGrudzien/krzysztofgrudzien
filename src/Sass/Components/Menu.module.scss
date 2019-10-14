@@ -30,11 +30,11 @@
         letter-spacing: 5px;
         position: relative;
         text-transform: uppercase;
+        transition: border-bottom .7s ease-in-out;
     }
 
     &__item:hover {
         border-bottom: solid 5px darken($grey, 70%);
-        transition: border-bottom .4s ease-in-out;
     }
 
     &__link:link,
@@ -47,7 +47,11 @@
 
     &__link:hover + &__linkDescription {
         color: darken($grey, 70%);
-        transition: color .4s ease-in-out;
+    }
+
+    &__link + &__linkDescription {
+        color: $grey;
+        transition: color .7s ease-in-out;
     }
 
     &__number {
