@@ -1,0 +1,36 @@
+@import '../Utils/variables.scss';
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 85%;
+
+    &__social {
+       border-bottom: solid 1px darken($grey, 80%);
+       display: flex;
+       margin-bottom: 5px;
+    }
+
+    &__link {
+        color: darken($grey, 80%);
+
+        &Social {
+            margin-right: 10px;
+        }
+    }
+
+    &__link:hover {
+        text-decoration: none;
+    }
+
+    &__logo {
+        margin-bottom: 10px;
+    }
+
+    &__copyrights {
+        font-size: 0.75rem;
+        padding-bottom: 5px;
+        text-align: center;
+    }
+}
