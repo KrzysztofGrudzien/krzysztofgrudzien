@@ -5,7 +5,7 @@
     display: flex;
     height: 30px;
     justify-content: space-between;
-    margin: 28px auto 0 auto;
+    margin: 32px auto 0 auto;
     width: 85%;
 
     &__title {
@@ -16,6 +16,7 @@
 
     &__logo {
         margin: 0 auto;
+        height: 20px;
     }
 
     &__contact {
