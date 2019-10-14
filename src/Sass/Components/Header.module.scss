@@ -1,0 +1,40 @@
+@import '../Utils/variables.scss';
+
+.header {
+    border-bottom: solid 1px darken($grey, 80%);
+    display: flex;
+    height: 30px;
+    justify-content: space-between;
+    margin: 28px auto 0 auto;
+    width: 85%;
+
+    &__title {
+        display: flex;
+        width: 90%;
+        text-align: center; 
+    }
+
+    &__logo {
+        margin: 0 auto;
+    }
+
+    &__contact {
+        align-self: flex-end;
+        background-color: darken($grey, 80%);
+        color: $white;
+        display: flex;
+        height: 26px;
+        margin-bottom: -1px;
+        padding-bottom: 10px;
+        text-align: right;
+    }
+
+    &__link {
+        color: $grey;
+        display: inline-block;
+        font-size: 0.75rem;
+        line-height: 1.625rem;
+        padding: 0 10px;
+        text-decoration: none;
+    }
+}
