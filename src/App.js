@@ -1,14 +1,16 @@
 import React from 'react';
-import Menu from './components/Menu';
+import Navigation from './components/Navigation';
 import Header from './components/Header';
 import Footer from './components/Footer';
+import Main from './components/Main';
 
 class App extends React.Component {
   render() {
     return (
       <>
-        <Menu></Menu>
+        <Navigation></Navigation>
         <Header></Header>
+        <Main></Main>
         <Footer></Footer>
       </>
     );
