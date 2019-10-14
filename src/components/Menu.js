@@ -5,39 +5,39 @@ const Menu = () => {
         <nav className={styles.nav}>
             <ul className={styles.nav__list}>
                 <li className={styles.nav__item}>
-                    <span className={styles.nav__number}>01</span>
+                    <sup className={styles.nav__number}>01</sup>
                     <a href="#" className={styles.nav__link}>About</a>
-                    <span className={styles.nav__linkDescription}>me</span>
+                    <sup className={styles.nav__linkDescription}>me</sup>
                 </li>
                 <li className={styles.nav__item}>
-                    <span className={styles.nav__number}>02</span>
+                    <sup className={styles.nav__number}>02</sup>
                     <a href="#" className={styles.nav__link}>Skills</a>
-                    <span className={styles.nav__linkDescription}>current</span>
+                    <sup className={styles.nav__linkDescription}>current</sup>
                 </li>
                 <li className={styles.nav__item}>
-                    <span className={styles.nav__number}>03</span>
+                    <sup className={styles.nav__number}>03</sup>
                     <a href="#" className={styles.nav__link}>My It</a>
-                    <span className={styles.nav__linkDescription}>roadmap</span>
+                    <sup className={styles.nav__linkDescription}>roadmap</sup>
                 </li>
                 <li className={styles.nav__item}>
-                    <span className={styles.nav__number}>04</span>
+                    <sup className={styles.nav__number}>04</sup>
                     <a href="#" className={styles.nav__link}>Works</a>
-                    <span className={styles.nav__linkDescription}>best</span>
+                    <sup className={styles.nav__linkDescription}>best</sup>
                 </li>
                 <li className={styles.nav__item}>
-                    <span className={styles.nav__number}>05</span>
+                    <sup className={styles.nav__number}>05</sup>
                     <a href="#" className={styles.nav__link}>lab</a>
-                    <span className={styles.nav__linkDescription}>may</span>
+                    <sup className={styles.nav__linkDescription}>may</sup>
                 </li>
                 <li className={styles.nav__item}>
-                    <span className={styles.nav__number}>06</span>
+                    <sup className={styles.nav__number}>06</sup>
                     <a href="#" className={styles.nav__link}>Event</a>
-                    <span className={styles.nav__linkDescription}>'s</span>
+                    <sup className={styles.nav__linkDescription}>'s</sup>
                 </li>
                 <li className={styles.nav__item}>
-                    <span className={styles.nav__number}>07</span>
+                    <sup className={styles.nav__number}>07</sup>
                     <a href="#" className={styles.nav__link}>Contact</a>
-                    <span className={styles.nav__linkDescription}>with me</span>
+                    <sup className={styles.nav__linkDescription}>with me</sup>
                 </li>
             </ul>
         </nav>
