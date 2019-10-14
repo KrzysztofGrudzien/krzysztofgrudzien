@@ -21,6 +21,23 @@
     &__description {
         margin-bottom: 30px;
     }
+
+    &__email {
+        height: 50px;
+    }
+
+    &__link {
+        display: inline-block;
+        background-color: darken($grey, 70%);
+        color: $white;
+        line-height: 3rem;
+        font-family: 'rift';
+        font-size: 1.5rem;
+        font-weight: 300;
+        text-decoration: none;
+        letter-spacing: 2px;
+        padding: 0 10px;
+    }
 }
 
 .image {
