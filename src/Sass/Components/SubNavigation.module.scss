@@ -26,20 +26,22 @@
         & > a + span {
             background-color: none;
             color: none;
-            left: 10px;
+            left: 0;
+            top: -5px;
             position: absolute;
             padding: 5px;
             opacity: 0;
             width: 130px;
             text-align: center;
-            transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out;
+            // transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out;
+            transition: .3s ease-in-out;
         }
 
         & > a:hover + span {
             background-color: darken($grey, 70%);
             color: $grey;
             opacity: 1;
-            animation: left 1s ease-in-out;
+            transform: translateX(20px);
         }
     }
 
