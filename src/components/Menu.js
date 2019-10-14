@@ -6,7 +6,7 @@ const Menu = () => {
             <div className={styles.switcher}>
                 <span className={styles.switcher__text}>MENU</span>
             </div>
-            <nav className={styles.nav}>
+            <nav className={styles.nav} hidden>
                 <ul className={styles.nav__list}>
                     <li className={styles.nav__item}>
                         <sup className={styles.nav__number}>01</sup>
