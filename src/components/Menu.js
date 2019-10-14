@@ -3,6 +3,9 @@ import styles from '../Sass/Components/Menu.module.scss';
 const Menu = () => {
     return (
         <nav className={styles.nav}>
+            <div className={styles.nav__switcher}>
+                <span className={styles.nav__switcherText}>MENU</span>
+            </div>
             <ul className={styles.nav__list}>
                 <li className={styles.nav__item}>
                     <sup className={styles.nav__number}>01</sup>

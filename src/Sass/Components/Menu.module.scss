@@ -60,4 +60,23 @@
         font-weight: 700;
         position: absolute;
     }
+
+    &__switcher {
+        border: solid 1px darken($grey, 70%);
+        border-radius: 50%;
+        cursor: pointer;
+        height: 45px;
+        left: 35px;
+        width: 45px;
+        position: absolute;
+        top: 35px;
+        z-index: 100;
+    }
+
+    &__switcherText {
+        background-color: $grey;
+        position: absolute;
+        top: 10px;
+        left: 20px;
+    }
 }
