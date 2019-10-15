@@ -28,17 +28,17 @@
     }
 
     &__link {
-        display: inline-block;
         background-color: darken($grey, 70%);
         color: $white;
-        line-height: 3rem;
+        display: inline-block;
         font-family: 'rift';
         font-size: 1.5rem;
         font-weight: 300;
         float: right;
-        text-decoration: none;
         letter-spacing: 2px;
+        line-height: 3rem;
         padding: 0 10px;
+        text-decoration: none;
     }
 }
 
