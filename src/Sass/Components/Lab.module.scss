@@ -1,0 +1,101 @@
+@import '../Utils/variables.scss';
+
+.main {
+    color: darken($grey, 70%);
+    display: flex;
+    font-family: 'open-sans', sans-serif;
+    font-size: 1.5rem;
+    margin: 40px auto;
+    width: 85%;
+}
+
+.lab {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+
+    &__title {
+        font-family: 'rift', sans-serif;
+        font-size: 5rem;
+        position: relative;
+        width: 100%;
+    }
+
+    &__hero {
+        background-image: url("../../assets/images/lab.jpg");
+        background-repeat: repeat-x;
+        background-position: center center;
+        background-size: cover;
+        filter: grayscale(20%);
+        height: 300px;
+        width: 100%;
+        z-index: 0;
+    }
+
+    &__wrapper {
+        display: flex;
+    }
+}
+
+.article {
+    display: flex;
+    flex-wrap: wrap;
+    padding-right: 10px; 
+    width: 50%;
+
+    &__title {
+        font-size: 2.25rem;
+        font-family: 'rift', sans-serif;
+        margin-bottom: 20px;
+        width: 100%;
+    }
+
+    &__image {
+        height: 300px;
+        margin-bottom: 20px;
+        width: 100%;
+    }
+
+    &__list {
+        font-size: 1.125rem;
+        width: 100%;
+
+        & > li {
+            padding: 2px;
+        }
+    }
+
+    &__description {
+        font-size: 1.125rem;
+        margin-top: 20px;
+    }
+
+    &__footer {
+        border-top: 1px solid darken($grey, 80%);
+        display: flex;
+        margin-top: 30px;
+        padding-top: 10px;
+        width: 100%;
+    }
+
+    &__demo, &__code {
+        display: flex;
+        align-items: center;
+    }
+
+    &__demo {
+        margin-right: 50px;
+    }
+
+    &__link {
+        color: darken($grey, 80%);
+        cursor: pointer;
+        display: inline-block;
+        font-size: 1.125rem;
+        margin-left: 15px;
+    }
+
+    &__link:hover {
+        text-decoration: none;
+    }
+}
