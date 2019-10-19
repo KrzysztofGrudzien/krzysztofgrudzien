@@ -1,0 +1,104 @@
+@import '../Utils/variables.scss';
+
+.main {
+    color: darken($grey, 70%);
+    display: flex;
+    font-family: 'open-sans', sans-serif;
+    font-size: 1.5rem;
+    margin: 40px auto;
+    width: 85%;
+}
+
+.works {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+
+    &__title {
+        font-family: 'rift', sans-serif;
+        font-size: 5rem;
+        position: relative;
+        width: 100%;
+    }
+
+    &__hero {
+        background-image: url("../../assets/images/deer.jpg");
+        background-repeat: repeat-x;
+        background-position: center center;
+        background-size: cover;
+        filter: grayscale(20%);
+        height: 300px;
+        width: 100%;
+        z-index: 0;
+    }
+
+    &__image {
+        width: 50%;
+    }
+
+    &__wrapper {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    &__lists {
+        width: 100%;
+    }
+
+    &__list {
+        display: flex;
+        font-size: 1rem;
+        margin-top: 30px;
+        padding-bottom: 20px;
+        border-bottom: 1px solid darken($grey, 70%);
+    }
+
+    &__item {
+        padding: 0 10px;
+        border-right: 1px solid darken($grey, 70%);
+    }
+}
+
+.article {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+
+    &__title {
+        font-size: 2.125rem;
+        font-family: 'rift', sans-serif;
+    }
+
+    &__description {
+        font-size: 1.125rem;
+    }
+
+    &__demo, &__code {
+        display: flex;
+        align-items: center;
+    }
+
+    &__demo {
+        margin-right: 50px;
+    }
+
+    &__footer {
+        align-self: flex-end;
+        display: flex;
+        margin-top: 30px;
+        padding-top: 10px;
+        width: 100%;
+    }
+
+    &__link {
+        color: darken($grey, 80%);
+        cursor: pointer;
+        display: inline-block;
+        font-size: 1.125rem;
+        margin-left: 15px;
+    }
+
+    &__link:hover {
+        text-decoration: none;
+    }
+}

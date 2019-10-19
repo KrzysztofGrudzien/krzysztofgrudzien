@@ -6,12 +6,12 @@
     font-family: 'open-sans', sans-serif;
     font-size: 1.5rem;
     margin: 40px auto;
+    min-height: 100%;
     width: 85%;
 }
 
 .author {
     width: 50%;
-    padding-left: 50px;
 
     &__title {
         font-family: 'rift', sans-serif;
@@ -28,17 +28,17 @@
     }
 
     &__link {
-        display: inline-block;
         background-color: darken($grey, 70%);
         color: $white;
-        line-height: 3rem;
+        display: inline-block;
         font-family: 'rift';
         font-size: 1.5rem;
         font-weight: 300;
         float: right;
-        text-decoration: none;
         letter-spacing: 2px;
+        line-height: 3rem;
         padding: 0 10px;
+        text-decoration: none;
     }
 }
 

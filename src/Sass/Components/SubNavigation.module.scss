@@ -3,8 +3,9 @@
 .nav {
     font-family: 'rift', sans-serif;
     left: 50px;
-    position: absolute;
+    position: fixed;
     top: 105px;
+    z-index: 1000;
 
     &__list {
         display: flex;
@@ -33,7 +34,6 @@
             opacity: 0;
             width: 130px;
             text-align: center;
-            // transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out;
             transition: .3s ease-in-out;
         }
 
@@ -42,6 +42,7 @@
             color: $grey;
             opacity: 1;
             transform: translateX(20px);
+            z-index: 10;
         }
     }
 

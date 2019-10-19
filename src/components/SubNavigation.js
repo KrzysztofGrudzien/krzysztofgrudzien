@@ -9,7 +9,7 @@ const listLinks = [
     { number: "04", path: "/works", name: "best works" },
     { number: "05", path: "/lab", name: "my lab" },
     { number: "06", path: "/events", name: "event's" },
-    { number: "07", path: "/contacts", name: "contact with me" }
+    { number: "07", path: "/contact", name: "contact with me" }
 ]
 const SubNavigation = () => {
     const links = listLinks.map(link => (
