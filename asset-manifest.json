@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/krzysztofgrudzien/static/css/main.bb27e2aa.chunk.css",
+    "main.js": "/krzysztofgrudzien/static/js/main.162841d5.chunk.js",
+    "main.js.map": "/krzysztofgrudzien/static/js/main.162841d5.chunk.js.map",
+    "runtime-main.js": "/krzysztofgrudzien/static/js/runtime-main.388e153c.js",
+    "runtime-main.js.map": "/krzysztofgrudzien/static/js/runtime-main.388e153c.js.map",
+    "static/js/2.5d71ec0b.chunk.js": "/krzysztofgrudzien/static/js/2.5d71ec0b.chunk.js",
+    "static/js/2.5d71ec0b.chunk.js.map": "/krzysztofgrudzien/static/js/2.5d71ec0b.chunk.js.map",
+    "index.html": "/krzysztofgrudzien/index.html",
+    "precache-manifest.3c1587320d72f9868a3ae991c83043f8.js": "/krzysztofgrudzien/precache-manifest.3c1587320d72f9868a3ae991c83043f8.js",
+    "service-worker.js": "/krzysztofgrudzien/service-worker.js",
+    "static/css/main.bb27e2aa.chunk.css.map": "/krzysztofgrudzien/static/css/main.bb27e2aa.chunk.css.map",
+    "static/media/author.png": "/krzysztofgrudzien/static/media/author.906133cf.png",
+    "static/media/Skills.module.scss": "/krzysztofgrudzien/static/media/programming.71ff58c6.jpg",
+    "static/media/code-icon.svg": "/krzysztofgrudzien/static/media/code-icon.a829a7d2.svg",
+    "static/media/Contact.module.scss": "/krzysztofgrudzien/static/media/wolf.9bceb3ea.jpg",
+    "static/media/criscode.jpg": "/krzysztofgrudzien/static/media/criscode.294869ba.jpg",
+    "static/media/criscode.svg": "/krzysztofgrudzien/static/media/criscode.59e3445b.svg",
+    "static/media/Works.module.scss": "/krzysztofgrudzien/static/media/deer.65d72301.jpg",
+    "static/media/demo-icon.svg": "/krzysztofgrudzien/static/media/demo-icon.41690849.svg",
+    "static/media/Events.module.scss": "/krzysztofgrudzien/static/media/events.3bc4a79c.jpg",
+    "static/media/facebook.svg": "/krzysztofgrudzien/static/media/facebook.d5c18823.svg",
+    "static/media/github.svg": "/krzysztofgrudzien/static/media/github.9ff24124.svg",
+    "static/media/hydrapp.jpg": "/krzysztofgrudzien/static/media/hydrapp.704ae428.jpg",
+    "static/media/Lab.module.scss": "/krzysztofgrudzien/static/media/lab.825fbe00.jpg",
+    "static/media/linkedin.svg": "/krzysztofgrudzien/static/media/linkedin.1d86e2ae.svg",
+    "static/media/portrait2x.png": "/krzysztofgrudzien/static/media/portrait2x.838a9921.png",
+    "static/media/ITRoadMap.module.scss": "/krzysztofgrudzien/static/media/road.73ded102.jpg",
+    "static/media/wtfteam@2x.jpg": "/krzysztofgrudzien/static/media/wtfteam@2x.d3f40b71.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.388e153c.js",
+    "static/js/2.5d71ec0b.chunk.js",
+    "static/css/main.bb27e2aa.chunk.css",
+    "static/js/main.162841d5.chunk.js"
+  ]
+}
