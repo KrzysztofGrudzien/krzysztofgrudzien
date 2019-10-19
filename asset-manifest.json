@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/krzysztofgrudzien/static/css/main.bb27e2aa.chunk.css",
-    "main.js": "/krzysztofgrudzien/static/js/main.162841d5.chunk.js",
-    "main.js.map": "/krzysztofgrudzien/static/js/main.162841d5.chunk.js.map",
+    "main.js": "/krzysztofgrudzien/static/js/main.e1d1e4e9.chunk.js",
+    "main.js.map": "/krzysztofgrudzien/static/js/main.e1d1e4e9.chunk.js.map",
     "runtime-main.js": "/krzysztofgrudzien/static/js/runtime-main.388e153c.js",
     "runtime-main.js.map": "/krzysztofgrudzien/static/js/runtime-main.388e153c.js.map",
     "static/js/2.5d71ec0b.chunk.js": "/krzysztofgrudzien/static/js/2.5d71ec0b.chunk.js",
     "static/js/2.5d71ec0b.chunk.js.map": "/krzysztofgrudzien/static/js/2.5d71ec0b.chunk.js.map",
     "index.html": "/krzysztofgrudzien/index.html",
-    "precache-manifest.3c1587320d72f9868a3ae991c83043f8.js": "/krzysztofgrudzien/precache-manifest.3c1587320d72f9868a3ae991c83043f8.js",
+    "precache-manifest.c6e0a122cc7bceb37c648b854988454e.js": "/krzysztofgrudzien/precache-manifest.c6e0a122cc7bceb37c648b854988454e.js",
     "service-worker.js": "/krzysztofgrudzien/service-worker.js",
     "static/css/main.bb27e2aa.chunk.css.map": "/krzysztofgrudzien/static/css/main.bb27e2aa.chunk.css.map",
     "static/media/author.png": "/krzysztofgrudzien/static/media/author.906133cf.png",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.388e153c.js",
     "static/js/2.5d71ec0b.chunk.js",
     "static/css/main.bb27e2aa.chunk.css",
-    "static/js/main.162841d5.chunk.js"
+    "static/js/main.e1d1e4e9.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c692685fe1ffe757856b5c4b18d601b0",
+    "revision": "b3b8b722cae19ba6a1df465b52271f6b",
     "url": "/krzysztofgrudzien/index.html"
   },
   {
-    "revision": "4bf7e98dcf2fbc9f15b2",
+    "revision": "08b776950d7cf35f75d0",
     "url": "/krzysztofgrudzien/static/css/main.bb27e2aa.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/krzysztofgrudzien/static/js/2.5d71ec0b.chunk.js"
   },
   {
-    "revision": "4bf7e98dcf2fbc9f15b2",
-    "url": "/krzysztofgrudzien/static/js/main.162841d5.chunk.js"
+    "revision": "08b776950d7cf35f75d0",
+    "url": "/krzysztofgrudzien/static/js/main.e1d1e4e9.chunk.js"
   },
   {
     "revision": "307060ac2a8644c1ef1c",
