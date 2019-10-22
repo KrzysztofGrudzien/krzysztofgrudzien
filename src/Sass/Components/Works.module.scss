@@ -13,6 +13,7 @@
     display: flex;
     flex-wrap: wrap;
     width: 100%;
+    z-index: 1;
 
     &__title {
         font-family: 'rift', sans-serif;
@@ -29,7 +30,7 @@
         filter: grayscale(20%);
         height: 300px;
         width: 100%;
-        z-index: 0;
+        z-index: -1;
     }
 
     &__image {
