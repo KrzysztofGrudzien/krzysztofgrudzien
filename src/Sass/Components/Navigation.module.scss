@@ -4,8 +4,9 @@
     background-color: $grey;
     font-family: 'rift', sans-serif;
     height: 100vh;
-    position: relative;
+    position: fixed;
     width: 100%;
+    z-index: 99;
 
     &__list {
         display: flex;
@@ -73,7 +74,7 @@
     height: 45px;
     left: 35px;
     width: 45px;
-    position: absolute;
+    position: fixed;
     top: 35px;
     z-index: 100;
 
@@ -86,4 +87,7 @@
     }
 }
 
-    
+.opacity {
+    transition: all 1s ease-in-out;
+    opacity: 1;
+}    

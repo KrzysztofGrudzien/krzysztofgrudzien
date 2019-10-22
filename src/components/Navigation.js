@@ -11,26 +11,39 @@ const listLinks = [
     { number: "06", path: "/events", name: "event", prefix: "'s" },
     { number: "07", path: "/contact", name: "contact", prefix: "with me" }
 ]
-const Menu = () => {
-    const links = listLinks.map(link => (
-        <li key={link.number} className={styles.nav__item}>
-            <sup className={styles.nav__number}>{link.number}</sup>
-            <NavLink to={link.path} className={styles.nav__link}>{link.name}</NavLink>
-            <sup className={styles.nav__linkDescription}>{link.prefix}</sup>
-        </li>
-    ))
-    return (
-        <>
-            <div className={styles.switcher}>
-                <span className={styles.switcher__text}>MENU</span>
-            </div>
-            <nav className={styles.nav}>
-                <ul className={styles.nav__list}>
-                    {links}
-                </ul>
-            </nav>
-        </>
-    )
+class Menu extends React.Component {
+    state = {
+        isActive: true
+    }
+
+    handleToggleMenu = () => {
+        this.setState({
+            isActive: !this.state.isActive
+        })
+    }
+    render() {
+        const links = listLinks.map(link => (
+            <li key={link.number} className={styles.nav__item}>
+                <sup className={styles.nav__number}>{link.number}</sup>
+                <NavLink to={link.path} className={styles.nav__link}>{link.name}</NavLink>
+                <sup className={styles.nav__linkDescription}>{link.prefix}</sup>
+            </li>
+        ))
+        return (
+            <>
+                <div className={styles.switcher} onClick={this.handleToggleMenu}>
+                    <span className={styles.switcher__text}>{!this.state.isActive ? "Close" : "Menu"}</span>
+                </div>
+                <nav
+                    className={this.state.isActive ? `${styles.nav}` : `${styles.nav} ${styles.opacity}`}
+                    hidden={this.state.isActive}>
+                    <ul className={styles.nav__list}>
+                        {links}
+                    </ul>
+                </nav>
+            </>
+        )
+    }
 }
 
 export default Menu; 

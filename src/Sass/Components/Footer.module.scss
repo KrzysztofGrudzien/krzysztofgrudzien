@@ -5,6 +5,8 @@
     flex-direction: column;
     margin: 0 auto;
     width: 85%;
+    position: relative;
+    z-index: -1;
 
     &__social {
        border-bottom: solid 1px darken($grey, 80%);
