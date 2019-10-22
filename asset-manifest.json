@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/krzysztofgrudzien/static/css/main.100b9c79.chunk.css",
-    "main.js": "/krzysztofgrudzien/static/js/main.6da8016c.chunk.js",
-    "main.js.map": "/krzysztofgrudzien/static/js/main.6da8016c.chunk.js.map",
+    "main.css": "/krzysztofgrudzien/static/css/main.d3ab0491.chunk.css",
+    "main.js": "/krzysztofgrudzien/static/js/main.80700db5.chunk.js",
+    "main.js.map": "/krzysztofgrudzien/static/js/main.80700db5.chunk.js.map",
     "runtime-main.js": "/krzysztofgrudzien/static/js/runtime-main.388e153c.js",
     "runtime-main.js.map": "/krzysztofgrudzien/static/js/runtime-main.388e153c.js.map",
-    "static/js/2.5ee1714e.chunk.js": "/krzysztofgrudzien/static/js/2.5ee1714e.chunk.js",
-    "static/js/2.5ee1714e.chunk.js.map": "/krzysztofgrudzien/static/js/2.5ee1714e.chunk.js.map",
+    "static/js/2.cba24e5a.chunk.js": "/krzysztofgrudzien/static/js/2.cba24e5a.chunk.js",
+    "static/js/2.cba24e5a.chunk.js.map": "/krzysztofgrudzien/static/js/2.cba24e5a.chunk.js.map",
     "index.html": "/krzysztofgrudzien/index.html",
-    "precache-manifest.ee40fb720718a56d8100c7b5e32a2a84.js": "/krzysztofgrudzien/precache-manifest.ee40fb720718a56d8100c7b5e32a2a84.js",
+    "precache-manifest.8c7ce586d6e047d40a22c1960eebcc17.js": "/krzysztofgrudzien/precache-manifest.8c7ce586d6e047d40a22c1960eebcc17.js",
     "service-worker.js": "/krzysztofgrudzien/service-worker.js",
-    "static/css/main.100b9c79.chunk.css.map": "/krzysztofgrudzien/static/css/main.100b9c79.chunk.css.map",
+    "static/css/main.d3ab0491.chunk.css.map": "/krzysztofgrudzien/static/css/main.d3ab0491.chunk.css.map",
     "static/media/author.png": "/krzysztofgrudzien/static/media/author.906133cf.png",
     "static/media/Skills.module.scss": "/krzysztofgrudzien/static/media/programming.71ff58c6.jpg",
     "static/media/code-icon.svg": "/krzysztofgrudzien/static/media/code-icon.a829a7d2.svg",
@@ -21,18 +21,22 @@
     "static/media/demo-icon.svg": "/krzysztofgrudzien/static/media/demo-icon.41690849.svg",
     "static/media/Events.module.scss": "/krzysztofgrudzien/static/media/events.3bc4a79c.jpg",
     "static/media/facebook.svg": "/krzysztofgrudzien/static/media/facebook.d5c18823.svg",
+    "static/media/fishing.jpg": "/krzysztofgrudzien/static/media/fishing.d195a0d4.jpg",
     "static/media/github.svg": "/krzysztofgrudzien/static/media/github.9ff24124.svg",
+    "static/media/guess-number.jpg": "/krzysztofgrudzien/static/media/guess-number.d73701b0.jpg",
     "static/media/hydrapp.jpg": "/krzysztofgrudzien/static/media/hydrapp.704ae428.jpg",
     "static/media/Lab.module.scss": "/krzysztofgrudzien/static/media/lab.825fbe00.jpg",
     "static/media/linkedin.svg": "/krzysztofgrudzien/static/media/linkedin.1d86e2ae.svg",
+    "static/media/mydiary.png": "/krzysztofgrudzien/static/media/mydiary.00ba6fea.png",
+    "static/media/piggame.jpg": "/krzysztofgrudzien/static/media/piggame.68cf38df.jpg",
     "static/media/portrait2x.png": "/krzysztofgrudzien/static/media/portrait2x.838a9921.png",
     "static/media/ITRoadMap.module.scss": "/krzysztofgrudzien/static/media/road.73ded102.jpg",
     "static/media/wtfteam@2x.jpg": "/krzysztofgrudzien/static/media/wtfteam@2x.d3f40b71.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.388e153c.js",
-    "static/js/2.5ee1714e.chunk.js",
-    "static/css/main.100b9c79.chunk.css",
-    "static/js/main.6da8016c.chunk.js"
+    "static/js/2.cba24e5a.chunk.js",
+    "static/css/main.d3ab0491.chunk.css",
+    "static/js/main.80700db5.chunk.js"
   ]
 }

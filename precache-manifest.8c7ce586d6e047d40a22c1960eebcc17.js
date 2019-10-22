@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5bb7475ba09085719a44917891eb01ae",
+    "revision": "ac93d1e4501c64b64c58768f6a816a6d",
     "url": "/krzysztofgrudzien/index.html"
   },
   {
-    "revision": "378e12609a6af651d822",
-    "url": "/krzysztofgrudzien/static/css/main.100b9c79.chunk.css"
+    "revision": "3cac6ef03f5f4f5f0e94",
+    "url": "/krzysztofgrudzien/static/css/main.d3ab0491.chunk.css"
   },
   {
-    "revision": "2c8be1868cb18c2706c2",
-    "url": "/krzysztofgrudzien/static/js/2.5ee1714e.chunk.js"
+    "revision": "3edab9f93ce48ac0bb1a",
+    "url": "/krzysztofgrudzien/static/js/2.cba24e5a.chunk.js"
   },
   {
-    "revision": "378e12609a6af651d822",
-    "url": "/krzysztofgrudzien/static/js/main.6da8016c.chunk.js"
+    "revision": "3cac6ef03f5f4f5f0e94",
+    "url": "/krzysztofgrudzien/static/js/main.80700db5.chunk.js"
   },
   {
     "revision": "307060ac2a8644c1ef1c",
@@ -72,8 +72,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/krzysztofgrudzien/static/media/facebook.d5c18823.svg"
   },
   {
+    "revision": "d195a0d45069e5b49ef034a9ec75e6d9",
+    "url": "/krzysztofgrudzien/static/media/fishing.d195a0d4.jpg"
+  },
+  {
     "revision": "9ff24124305c5f4691e127964f169fa7",
     "url": "/krzysztofgrudzien/static/media/github.9ff24124.svg"
+  },
+  {
+    "revision": "d73701b0ce8b8ae3a0baa91760b52af0",
+    "url": "/krzysztofgrudzien/static/media/guess-number.d73701b0.jpg"
   },
   {
     "revision": "704ae428d2236b7deef98dd5d5d32808",
@@ -86,6 +94,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1d86e2ae19c605d23441189f5445a05c",
     "url": "/krzysztofgrudzien/static/media/linkedin.1d86e2ae.svg"
+  },
+  {
+    "revision": "00ba6feafbc3203c0c9d05f21afa606c",
+    "url": "/krzysztofgrudzien/static/media/mydiary.00ba6fea.png"
+  },
+  {
+    "revision": "68cf38df11be7804bbc707a83ee102ba",
+    "url": "/krzysztofgrudzien/static/media/piggame.68cf38df.jpg"
   },
   {
     "revision": "838a992156a92e7c397628e54eaa02a5",
