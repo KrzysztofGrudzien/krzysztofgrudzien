@@ -35,8 +35,7 @@ class Menu extends React.Component {
                     <span className={styles.switcher__text}>{!this.state.isActive ? "Close" : "Menu"}</span>
                 </div>
                 <nav
-                    className={this.state.isActive ? `${styles.nav}` : `${styles.nav} ${styles.opacity}`}
-                    hidden={this.state.isActive}>
+                    className={this.state.isActive ? `${styles.nav}` : `${styles.nav} ${styles.slideDown}`}>
                     <ul className={styles.nav__list}>
                         {links}
                     </ul>
