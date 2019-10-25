@@ -1,4 +1,5 @@
 @import '../Utils/variables.scss';
+@import '../Utils/animation.scss';
 
 .main {
     color: darken($grey, 70%);
@@ -14,9 +15,26 @@
     width: 50%;
 
     &__title {
+        color: transparent;
         font-family: 'rift', sans-serif;
-        font-size: 5rem;
+        font-size: 4.9rem;
         line-height: 7rem;
+        margin: 50px 0;
+        position: relative;
+    }
+
+    &__title::before {
+        animation: typing 12s linear infinite;
+        border-right: solid 2px darken($grey, 70%);
+        color: darken($grey, 70%);
+        content: attr(data-text);
+        height: 100%;
+        left: 0;
+        position: absolute;
+        overflow: hidden;
+        top: 0;
+        width: 100%;
+        white-space: nowrap;
     }
 
     &__description {
