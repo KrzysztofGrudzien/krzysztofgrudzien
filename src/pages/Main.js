@@ -13,7 +13,15 @@ const Main = () => {
                 <p className={styles.author__description}>
                     You might be interested in checking the list of my skills. Don’t forget to  have a glimpse of my projects. Currently I’m looking for a new challenges so if you have one - please contact with me.
                 </p>
-                <p className={styles.author__email}><a className={styles.author__link} href="mailto:krzysztof.grudzien.fed@gmail.com">krzysztof.grudzien.fed@gmail.com</a></p>
+                <p className={styles.author__email}>
+                    <a className={styles.author__link} href="mailto:krzysztof.grudzien.fed@gmail.com">
+                        krzysztof.grudzien.fed@gmail.com
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </a>
+                </p>
             </section>
             <aside className={styles.image}>
                 <p className={styles.image__text}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae totam laborum corrupti culpa, necessitatibus nulla voluptatem, eius saepe a commodi corporis nemo pariatur voluptas minima. Deserunt nobis rem commodi maxime!
