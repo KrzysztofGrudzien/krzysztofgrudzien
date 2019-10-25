@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/krzysztofgrudzien/static/css/main.d3ab0491.chunk.css",
-    "main.js": "/krzysztofgrudzien/static/js/main.80700db5.chunk.js",
-    "main.js.map": "/krzysztofgrudzien/static/js/main.80700db5.chunk.js.map",
+    "main.css": "/krzysztofgrudzien/static/css/main.73e354e8.chunk.css",
+    "main.js": "/krzysztofgrudzien/static/js/main.afcd4e1f.chunk.js",
+    "main.js.map": "/krzysztofgrudzien/static/js/main.afcd4e1f.chunk.js.map",
     "runtime-main.js": "/krzysztofgrudzien/static/js/runtime-main.388e153c.js",
     "runtime-main.js.map": "/krzysztofgrudzien/static/js/runtime-main.388e153c.js.map",
-    "static/js/2.cba24e5a.chunk.js": "/krzysztofgrudzien/static/js/2.cba24e5a.chunk.js",
-    "static/js/2.cba24e5a.chunk.js.map": "/krzysztofgrudzien/static/js/2.cba24e5a.chunk.js.map",
+    "static/js/2.457af08f.chunk.js": "/krzysztofgrudzien/static/js/2.457af08f.chunk.js",
+    "static/js/2.457af08f.chunk.js.map": "/krzysztofgrudzien/static/js/2.457af08f.chunk.js.map",
     "index.html": "/krzysztofgrudzien/index.html",
-    "precache-manifest.8c7ce586d6e047d40a22c1960eebcc17.js": "/krzysztofgrudzien/precache-manifest.8c7ce586d6e047d40a22c1960eebcc17.js",
+    "precache-manifest.4e9d66bfdb4cb9a102f3a856b34b5e06.js": "/krzysztofgrudzien/precache-manifest.4e9d66bfdb4cb9a102f3a856b34b5e06.js",
     "service-worker.js": "/krzysztofgrudzien/service-worker.js",
-    "static/css/main.d3ab0491.chunk.css.map": "/krzysztofgrudzien/static/css/main.d3ab0491.chunk.css.map",
-    "static/media/author.png": "/krzysztofgrudzien/static/media/author.906133cf.png",
+    "static/css/main.73e354e8.chunk.css.map": "/krzysztofgrudzien/static/css/main.73e354e8.chunk.css.map",
+    "static/media/author.png": "/krzysztofgrudzien/static/media/author.eab8a1d1.png",
+    "static/media/Main.module.scss": "/krzysztofgrudzien/static/media/avatar.5e10d687.png",
     "static/media/Skills.module.scss": "/krzysztofgrudzien/static/media/programming.71ff58c6.jpg",
     "static/media/code-icon.svg": "/krzysztofgrudzien/static/media/code-icon.a829a7d2.svg",
     "static/media/Contact.module.scss": "/krzysztofgrudzien/static/media/wolf.9bceb3ea.jpg",
@@ -29,14 +30,13 @@
     "static/media/linkedin.svg": "/krzysztofgrudzien/static/media/linkedin.1d86e2ae.svg",
     "static/media/mydiary.png": "/krzysztofgrudzien/static/media/mydiary.00ba6fea.png",
     "static/media/piggame.jpg": "/krzysztofgrudzien/static/media/piggame.68cf38df.jpg",
-    "static/media/portrait2x.png": "/krzysztofgrudzien/static/media/portrait2x.838a9921.png",
     "static/media/ITRoadMap.module.scss": "/krzysztofgrudzien/static/media/road.73ded102.jpg",
     "static/media/wtfteam@2x.jpg": "/krzysztofgrudzien/static/media/wtfteam@2x.d3f40b71.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.388e153c.js",
-    "static/js/2.cba24e5a.chunk.js",
-    "static/css/main.d3ab0491.chunk.css",
-    "static/js/main.80700db5.chunk.js"
+    "static/js/2.457af08f.chunk.js",
+    "static/css/main.73e354e8.chunk.css",
+    "static/js/main.afcd4e1f.chunk.js"
   ]
 }
