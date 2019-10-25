@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from '../Sass/Components/Main.module.scss'
-import iPad from '../assets/images/portrait2x.png';
+
 const Main = () => {
     return (
         <main className={styles.main}>
@@ -16,7 +16,6 @@ const Main = () => {
                 <p className={styles.author__email}><a className={styles.author__link} href="mailto:krzysztof.grudzien.fed@gmail.com">krzysztof.grudzien.fed@gmail.com</a></p>
             </section>
             <aside className={styles.image}>
-                {/* <img className={styles.image__decoration} src={iPad} alt="ipad image" /> */}
                 <p className={styles.image__text}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae totam laborum corrupti culpa, necessitatibus nulla voluptatem, eius saepe a commodi corporis nemo pariatur voluptas minima. Deserunt nobis rem commodi maxime!
                 Id, quibusdam dignissimos. Nihil, laudantium. Animi eveniet inventore molestias, ut culpa delectus ea dicta laudantium vitae nemo amet veritatis consequuntur itaque hic a quasi corporis quod, magnam sint aperiam. Incidunt!
                 Assumenda dolore quisquam vitae iusto dolorum corrupti sunt vel autem dolores, nemo quos magnam culpa quam dolorem eveniet enim. Adipisci facilis molestias optio maiores inventore ducimus doloribus id nisi dolores.
