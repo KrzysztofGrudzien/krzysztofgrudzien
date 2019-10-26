@@ -1,6 +1,5 @@
 import React from 'react';
 import styles from '../Sass/Components/Contact.module.scss';
-import author from '../assets/images/author.png';
 import iconFacebok from '../assets/images/facebook.svg';
 import iconLinkedin from '../assets/images/linkedin.svg';
 import iconGithub from '../assets/images/github.svg';
@@ -13,7 +12,7 @@ const Contact = () => {
                 <h1 className={styles.contact__title}>contact</h1>
                 <section className={styles.contact__descriptions}>
                     <aside className={styles.contactImage}>
-                        <img className={styles.contactImage__image} src={author} alt="author image. " />
+                        <div className={styles.contactImage__image}></div>
                         <h2 className={styles.contactImage__title}>Krzysztof Grudzień</h2>
                         <span className={styles.contactImage__profession}> - junior frontend developer - </span>
                         <div className={styles.social}>

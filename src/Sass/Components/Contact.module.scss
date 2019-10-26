@@ -51,10 +51,15 @@
     width: 50%;
 
     &__image {
+        background-image: url("../../assets/images/avatar2.png");
+        background-repeat: no-repeat;
+        background-position: top center;
+        background-size: contain;
         border-radius: 50%;
         box-shadow: 5px 5px 20px -10px rgba($black, 1);
         margin: 50px auto 20px auto;
-        width: 30%;
+        height: 200px;
+        width: 200px;
     }
 
     &__title {
