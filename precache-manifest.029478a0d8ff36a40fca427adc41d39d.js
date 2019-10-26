@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd452130663756d98100cd41bb944db3",
+    "revision": "950c4e40e51ba02fa4e5aaca1bf987cc",
     "url": "/krzysztofgrudzien/index.html"
   },
   {
-    "revision": "92fd78ca1468677ac15c",
-    "url": "/krzysztofgrudzien/static/css/main.73e354e8.chunk.css"
+    "revision": "bccdb44a27f2543f2041",
+    "url": "/krzysztofgrudzien/static/css/main.8a83b2f9.chunk.css"
   },
   {
-    "revision": "a4ca1b520881102a08a3",
-    "url": "/krzysztofgrudzien/static/js/2.457af08f.chunk.js"
+    "revision": "b4210be2f1d6ffa957a7",
+    "url": "/krzysztofgrudzien/static/js/2.a6592810.chunk.js"
   },
   {
-    "revision": "92fd78ca1468677ac15c",
-    "url": "/krzysztofgrudzien/static/js/main.afcd4e1f.chunk.js"
+    "revision": "bccdb44a27f2543f2041",
+    "url": "/krzysztofgrudzien/static/js/main.75a2a78e.chunk.js"
   },
   {
     "revision": "307060ac2a8644c1ef1c",
     "url": "/krzysztofgrudzien/static/js/runtime-main.388e153c.js"
   },
   {
-    "revision": "eab8a1d17043acb0642310f30c2497c5",
-    "url": "/krzysztofgrudzien/static/media/author.eab8a1d1.png"
-  },
-  {
     "revision": "5e10d687dd3fbc006ca668cd6fdcfc0d",
     "url": "/krzysztofgrudzien/static/media/avatar.5e10d687.png"
+  },
+  {
+    "revision": "b2b67280b37c75b00685c8dd762c120e",
+    "url": "/krzysztofgrudzien/static/media/avatar2.b2b67280.png"
   },
   {
     "revision": "d1299555016c1f4e6c24960ef4a4a134",
