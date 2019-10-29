@@ -6,6 +6,7 @@ const Main = () => {
         <main className={styles.main}>
             <section className={styles.author}>
                 <h1 data-text="Hi there, I'm Krzysztof" className={styles.author__title}>Hi there, I'm Krzysztof </h1>
+                <div className={styles.author__img}></div>
                 <p className={styles.author__description}>
                     I’m an aspiring <b>FrontEnd Developer</b> and absolutly crazy about fishing and cooking. Moreover I am intrested in<b>UX/UI</b> and web design of general meaning.
                 </p>
