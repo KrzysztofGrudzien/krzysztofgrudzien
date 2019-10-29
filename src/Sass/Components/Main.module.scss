@@ -11,13 +11,17 @@
     min-height: 100%;
     width: 85%;
     @media (min-width: 200px) and (max-width: 600px){
-        width: 95%;
+        width: 100%;
     }
+}
+
+.main > * {
+    margin: 0 auto;
 }
 
 .author {
     width: 50%;
-    @media (min-width: 200px) and (max-width: 600px){
+    @media (min-width: 200px) and (max-width: 779px){
         width: 95%;
     }
 
@@ -30,6 +34,13 @@
         position: relative;
         @media (min-width: 200px) and (max-width: 1500px){
             color: darken($grey, 70%);
+            margin: 50px 0 20px 0;
+        }
+
+        @media (min-width: 200px) and (max-width: 779px){
+            font-size: 4rem;
+            line-height: 5rem;
+            text-align: center;
         }
     }
 
@@ -148,6 +159,20 @@
         height: 100%;
         transform: translateY(-100%);
     }
+
+    &__img {
+        background: url('../../assets/images/avatar3.jpg');
+        background-size: cover;
+        background-position: top center;
+        background-repeat: no-repeat;
+        display: none;
+        @media (min-width: 200px) and (max-width: 779px){
+            display: block;
+        }
+        height: 200px;
+        margin-bottom: 40px;
+        width: 100%;
+    }
 }
 
 .image {
@@ -155,8 +180,8 @@
     padding: 20px;
     overflow: hidden;
     width: 50%;
-    @media (min-width: 200px) and (max-width: 600px){
-        width: 100%;
+    @media (min-width: 200px) and (max-width: 780px){
+        display: none;
     }
 
     &__decoration {
