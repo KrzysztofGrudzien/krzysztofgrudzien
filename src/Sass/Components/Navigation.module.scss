@@ -82,9 +82,13 @@
 .switcher {
     border: solid 1px darken($grey, 70%);
     border-radius: 50%;
+    background-color: $grey;
     cursor: pointer;
     height: 45px;
     left: 35px;
+    @media (min-width: 200px) and (max-width: 1024px){
+        left: 15px;
+    }
     width: 45px;
     position: fixed;
     top: 35px;
@@ -96,7 +100,7 @@
         padding-right: 10px;
         left: 20px;
         top: 10px;
-         @media (min-width: 200px) and (max-width: 600px){
+        @media (min-width: 200px) and (max-width: 600px){
             font-size: 1.4rem;
         }
     }
