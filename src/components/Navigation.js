@@ -24,9 +24,9 @@ class Menu extends React.Component {
     render() {
         const links = listLinks.map(link => (
             <li key={link.number} className={styles.nav__item}>
-                <sup className={styles.nav__number}>{link.number}</sup>
+                <span className={styles.nav__number}>{link.number}</span>
                 <NavLink to={link.path} className={styles.nav__link}>{link.name}</NavLink>
-                <sup className={styles.nav__linkDescription}>{link.prefix}</sup>
+                <span className={styles.nav__linkDescription}>{link.prefix}</span>
             </li>
         ))
         return (
