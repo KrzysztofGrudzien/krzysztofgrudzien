@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.78cc2e00.chunk.css",
+    "main.css": "/static/css/main.4e7824b8.chunk.css",
     "main.js": "/static/js/main.8fb94701.chunk.js",
     "main.js.map": "/static/js/main.8fb94701.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3a65eb24.js",
@@ -8,9 +8,9 @@
     "static/js/2.eda5f3e0.chunk.js": "/static/js/2.eda5f3e0.chunk.js",
     "static/js/2.eda5f3e0.chunk.js.map": "/static/js/2.eda5f3e0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7daa7e1000033d992fdd8940c61a4867.js": "/precache-manifest.7daa7e1000033d992fdd8940c61a4867.js",
+    "precache-manifest.3eaac525823e37d3689a5538b0536fae.js": "/precache-manifest.3eaac525823e37d3689a5538b0536fae.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.78cc2e00.chunk.css.map": "/static/css/main.78cc2e00.chunk.css.map",
+    "static/css/main.4e7824b8.chunk.css.map": "/static/css/main.4e7824b8.chunk.css.map",
     "static/media/Main.module.scss": "/static/media/avatar.5e10d687.png",
     "static/media/Contact.module.scss": "/static/media/wolf.9bceb3ea.jpg",
     "static/media/businessCard.jpg": "/static/media/businessCard.d7eeaeed.jpg",
@@ -39,7 +39,7 @@
   "entrypoints": [
     "static/js/runtime-main.3a65eb24.js",
     "static/js/2.eda5f3e0.chunk.js",
-    "static/css/main.78cc2e00.chunk.css",
+    "static/css/main.4e7824b8.chunk.css",
     "static/js/main.8fb94701.chunk.js"
   ]
 }
