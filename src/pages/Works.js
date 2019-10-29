@@ -40,6 +40,7 @@ class Works extends Component {
                     {data.map(repo => (
                         <RepositoryList
                             key={repo.id}
+                            id={repo.id}
                             name={repo.name}
                             description={repo.description}
                             language={repo.language}
@@ -47,6 +48,8 @@ class Works extends Component {
                             html={repo.html_url}
                             updated={repo.updated_at.slice(0, 10)}
                             login={`${repo.owner.login.slice(0, 9)} ${repo.owner.login.slice(9)}`}
+                            stars={repo.stargazers_count}
+                            watchers={repo.watchers_count}
                         />
                     ))}
                 </section>
