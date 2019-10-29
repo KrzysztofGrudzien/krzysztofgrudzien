@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "950c4e40e51ba02fa4e5aaca1bf987cc",
+    "revision": "21409dfbf33b1a8bce1624dfe64df36e",
     "url": "/krzysztofgrudzien/index.html"
   },
   {
-    "revision": "bccdb44a27f2543f2041",
+    "revision": "986bbc59fae458b95c4a",
     "url": "/krzysztofgrudzien/static/css/main.8a83b2f9.chunk.css"
   },
   {
-    "revision": "b4210be2f1d6ffa957a7",
-    "url": "/krzysztofgrudzien/static/js/2.a6592810.chunk.js"
+    "revision": "3c143f742cc9c240f862",
+    "url": "/krzysztofgrudzien/static/js/2.eda5f3e0.chunk.js"
   },
   {
-    "revision": "bccdb44a27f2543f2041",
-    "url": "/krzysztofgrudzien/static/js/main.75a2a78e.chunk.js"
+    "revision": "986bbc59fae458b95c4a",
+    "url": "/krzysztofgrudzien/static/js/main.36c73d7c.chunk.js"
   },
   {
     "revision": "307060ac2a8644c1ef1c",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b2b67280b37c75b00685c8dd762c120e",
     "url": "/krzysztofgrudzien/static/media/avatar2.b2b67280.png"
+  },
+  {
+    "revision": "d7eeaeed7677602e4ff2242a5982e18f",
+    "url": "/krzysztofgrudzien/static/media/businessCard.d7eeaeed.jpg"
   },
   {
     "revision": "d1299555016c1f4e6c24960ef4a4a134",
@@ -62,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "65d723016603da6947b4b018dd5a8e2e",
     "url": "/krzysztofgrudzien/static/media/deer.65d72301.jpg"
+  },
+  {
+    "revision": "9995bf38dfc726af9bfde923c982646e",
+    "url": "/krzysztofgrudzien/static/media/default.9995bf38.jpg"
   },
   {
     "revision": "41690849a1c744418e825f925323f4f7",
@@ -104,10 +112,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/krzysztofgrudzien/static/media/mydiary.00ba6fea.png"
   },
   {
-    "revision": "68cf38df11be7804bbc707a83ee102ba",
-    "url": "/krzysztofgrudzien/static/media/piggame.68cf38df.jpg"
-  },
-  {
     "revision": "71ff58c6f2699c8e8e54f34d7acbfafb",
     "url": "/krzysztofgrudzien/static/media/programming.71ff58c6.jpg"
   },
@@ -116,8 +120,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/krzysztofgrudzien/static/media/road.73ded102.jpg"
   },
   {
+    "revision": "f1fc037eeab4fc938a9399eec0236baf",
+    "url": "/krzysztofgrudzien/static/media/simpleEditor.f1fc037e.jpg"
+  },
+  {
     "revision": "9bceb3eaf3a66f4815f67d3bff8c4cce",
     "url": "/krzysztofgrudzien/static/media/wolf.9bceb3ea.jpg"
+  },
+  {
+    "revision": "558ab7ae379a2311c60e61ad25fc8fcb",
+    "url": "/krzysztofgrudzien/static/media/wtfForm.558ab7ae.jpg"
+  },
+  {
+    "revision": "43847dc7c84bdd52fec1b751e3d4f0ea",
+    "url": "/krzysztofgrudzien/static/media/wtfProgramTranning.43847dc7.png"
   },
   {
     "revision": "d3f40b71f56aeb4a12e969004e53127a",

@@ -1,23 +1,25 @@
 {
   "files": {
     "main.css": "/krzysztofgrudzien/static/css/main.8a83b2f9.chunk.css",
-    "main.js": "/krzysztofgrudzien/static/js/main.75a2a78e.chunk.js",
-    "main.js.map": "/krzysztofgrudzien/static/js/main.75a2a78e.chunk.js.map",
+    "main.js": "/krzysztofgrudzien/static/js/main.36c73d7c.chunk.js",
+    "main.js.map": "/krzysztofgrudzien/static/js/main.36c73d7c.chunk.js.map",
     "runtime-main.js": "/krzysztofgrudzien/static/js/runtime-main.388e153c.js",
     "runtime-main.js.map": "/krzysztofgrudzien/static/js/runtime-main.388e153c.js.map",
-    "static/js/2.a6592810.chunk.js": "/krzysztofgrudzien/static/js/2.a6592810.chunk.js",
-    "static/js/2.a6592810.chunk.js.map": "/krzysztofgrudzien/static/js/2.a6592810.chunk.js.map",
+    "static/js/2.eda5f3e0.chunk.js": "/krzysztofgrudzien/static/js/2.eda5f3e0.chunk.js",
+    "static/js/2.eda5f3e0.chunk.js.map": "/krzysztofgrudzien/static/js/2.eda5f3e0.chunk.js.map",
     "index.html": "/krzysztofgrudzien/index.html",
-    "precache-manifest.029478a0d8ff36a40fca427adc41d39d.js": "/krzysztofgrudzien/precache-manifest.029478a0d8ff36a40fca427adc41d39d.js",
+    "precache-manifest.14a428c14e23b9e7a5ce32f571f74739.js": "/krzysztofgrudzien/precache-manifest.14a428c14e23b9e7a5ce32f571f74739.js",
     "service-worker.js": "/krzysztofgrudzien/service-worker.js",
     "static/css/main.8a83b2f9.chunk.css.map": "/krzysztofgrudzien/static/css/main.8a83b2f9.chunk.css.map",
     "static/media/Main.module.scss": "/krzysztofgrudzien/static/media/avatar.5e10d687.png",
     "static/media/Contact.module.scss": "/krzysztofgrudzien/static/media/wolf.9bceb3ea.jpg",
+    "static/media/businessCard.jpg": "/krzysztofgrudzien/static/media/businessCard.d7eeaeed.jpg",
     "static/media/Skills.module.scss": "/krzysztofgrudzien/static/media/programming.71ff58c6.jpg",
     "static/media/code-icon.svg": "/krzysztofgrudzien/static/media/code-icon.a829a7d2.svg",
     "static/media/criscode.jpg": "/krzysztofgrudzien/static/media/criscode.294869ba.jpg",
     "static/media/criscode.svg": "/krzysztofgrudzien/static/media/criscode.59e3445b.svg",
     "static/media/Works.module.scss": "/krzysztofgrudzien/static/media/deer.65d72301.jpg",
+    "static/media/default.jpg": "/krzysztofgrudzien/static/media/default.9995bf38.jpg",
     "static/media/demo-icon.svg": "/krzysztofgrudzien/static/media/demo-icon.41690849.svg",
     "static/media/Events.module.scss": "/krzysztofgrudzien/static/media/events.3bc4a79c.jpg",
     "static/media/facebook.svg": "/krzysztofgrudzien/static/media/facebook.d5c18823.svg",
@@ -28,14 +30,16 @@
     "static/media/Lab.module.scss": "/krzysztofgrudzien/static/media/lab.825fbe00.jpg",
     "static/media/linkedin.svg": "/krzysztofgrudzien/static/media/linkedin.1d86e2ae.svg",
     "static/media/mydiary.png": "/krzysztofgrudzien/static/media/mydiary.00ba6fea.png",
-    "static/media/piggame.jpg": "/krzysztofgrudzien/static/media/piggame.68cf38df.jpg",
     "static/media/ITRoadMap.module.scss": "/krzysztofgrudzien/static/media/road.73ded102.jpg",
+    "static/media/simpleEditor.jpg": "/krzysztofgrudzien/static/media/simpleEditor.f1fc037e.jpg",
+    "static/media/wtfForm.jpg": "/krzysztofgrudzien/static/media/wtfForm.558ab7ae.jpg",
+    "static/media/wtfProgramTranning.png": "/krzysztofgrudzien/static/media/wtfProgramTranning.43847dc7.png",
     "static/media/wtfteam@2x.jpg": "/krzysztofgrudzien/static/media/wtfteam@2x.d3f40b71.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.388e153c.js",
-    "static/js/2.a6592810.chunk.js",
+    "static/js/2.eda5f3e0.chunk.js",
     "static/css/main.8a83b2f9.chunk.css",
-    "static/js/main.75a2a78e.chunk.js"
+    "static/js/main.36c73d7c.chunk.js"
   ]
 }
