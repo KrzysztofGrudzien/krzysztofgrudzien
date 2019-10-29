@@ -67,7 +67,7 @@ const RepositoryList = props => {
                     </div>
                     <div className={styles.article__code}>
                         <img className={styles.article__icon} src={iconCode} alt="icon code." />
-                        <a href={props.html_url} className={styles.article__link} target="_blank">GitHub</a>
+                        <a href={props.html} className={styles.article__link} target="_blank">GitHub</a>
                     </div>
                 </footer>
             </article>
