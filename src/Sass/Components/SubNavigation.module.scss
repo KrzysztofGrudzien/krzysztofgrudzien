@@ -6,6 +6,9 @@
     position: fixed;
     top: 105px;
     z-index: 3;
+    @media (min-width: 200px) and (max-width: 1024px){
+        display: none;
+    }
 
     &__list {
         display: flex;
