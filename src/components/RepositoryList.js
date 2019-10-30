@@ -14,20 +14,20 @@ import iconCode from '../assets/images/code-icon.svg';
 import iconDemo from '../assets/images/demo-icon.svg';
 
 // temporary preview of data
-const data = [
-    { id: 216506756, name: "fishing-adventure", image: fishingAdventure },
-    { id: 209878758, name: "Game-Guess-Number", image: guessNumber },
-    { id: 199216419, name: "hydrApp", image: hydrApp },
-    { id: 214868831, name: "krzysztofgrudzien", image: criscode },
-    { id: 194762825, name: "my-diary-gulp", image: myDiaryGulp },
-    { id: 196483602, name: "simple-editor", image: simpleEditor },
-    { id: 208912546, name: "the-laboratory", image: defaultImage },
-    { id: 192948898, name: "personal-card", image: businessCard },
-    { id: 193562233, name: "wtf-form", image: wtfForm },
-    { id: 202035043, name: "wtf-program-tranning", image: wtfProgramTranning },
-    { id: 202032923, name: "rest-api", image: defaultImage },
-    { id: null, name: null }
-]
+// const data = [
+//     { id: 216506756, name: "fishing-adventure", image: fishingAdventure },
+//     { id: 209878758, name: "Game-Guess-Number", image: guessNumber },
+//     { id: 199216419, name: "hydrApp", image: hydrApp },
+//     { id: 214868831, name: "krzysztofgrudzien", image: criscode },
+//     { id: 194762825, name: "my-diary-gulp", image: myDiaryGulp },
+//     { id: 196483602, name: "simple-editor", image: simpleEditor },
+//     { id: 208912546, name: "the-laboratory", image: defaultImage },
+//     { id: 192948898, name: "personal-card", image: businessCard },
+//     { id: 193562233, name: "wtf-form", image: wtfForm },
+//     { id: 202035043, name: "wtf-program-tranning", image: wtfProgramTranning },
+//     { id: 202032923, name: "rest-api", image: defaultImage },
+//     { id: null, name: null }
+// ]
 const RepositoryList = props => {
     const checkUserId = () => {
         if (props.id === 216506756) {
