@@ -7,6 +7,10 @@
     font-size: 1.5rem;
     margin: 40px auto;
     width: 85%;
+    @media (min-width: 200px) and (max-width: 600px){
+        width: 95%;
+        margin-top: 20px;
+    }
 }
 
 .lab {
@@ -31,6 +35,9 @@
         height: 300px;
         width: 100%;
         z-index: 0;
+        // @media (min-width: 200px) and (max-width: 1024px){
+        //     height: 200px;
+        // }
     }
 
     &__wrapper {

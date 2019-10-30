@@ -10,17 +10,17 @@ const Events = () => {
                 <h1 className={styles.events__title}>Events</h1>
                 <div className={styles.events__box}>
                     <article className={styles.article}>
-                        <span className={styles.article__data}>14 - 15 September</span>
-                        <span className={styles.article__year}>2019</span>
+                        <h2 className={styles.article__data}>14 - 15 September</h2>
+                        <h3 className={styles.article__year}>2019</h3>
                     </article>
                     <article className={styles.article}>
-                        <p className={styles.article__title}>HackYeah 2019
-The biggest stationary hackathon in Europe!</p>
+                        <h2 className={styles.article__title}>HackYeah 2019
+The biggest stationary hackathon in Europe!</h2>
                         <figure className={styles.figure}>
                             <img className={styles.figure__image} src={wtfTeam} alt="wtf team." />
                             <figcaption className={styles.figure__figcaption}>
                                 <p className={styles.figure__description}>https://www.facebook.com/events/2395881610685005/
-I was there and fought with the best programmers in Europe :) It was amazing adventure!</p>
+I was there and fought with the best programmers in Europe 😎 It was amazing adventure!</p>
                             </figcaption>
                         </figure>
                     </article>
