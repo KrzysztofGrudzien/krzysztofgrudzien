@@ -77,7 +77,7 @@ const ITRoadMap = () => {
                                 </ul>
                             </article>
                             <div className={styles.time}>
-                                <h3 className={styles.time__title}>January 2019</h3>
+                                <h3 className={styles.time__title}>November 2019</h3>
                             </div>
                         </li>
                         <div className={styles.timeline__clearFix}></div>
