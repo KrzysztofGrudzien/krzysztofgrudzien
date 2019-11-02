@@ -1,4 +1,5 @@
 import React from 'react';
+import { NavLink } from 'react-router-dom';
 import styles from '../Sass/Components/Header.module.scss';
 import logo from '../assets/images/criscode.svg';
 const Header = () => {
@@ -9,7 +10,7 @@ const Header = () => {
                     <img className={styles.header__logo} src={logo} alt="author website logo" />
                 </h1>
                 <div className={styles.header__contact}>
-                    <a href="#" className={styles.header__link}>get in touch</a>
+                    <NavLink to={'/contact'} className={styles.header__link}>get in touch</NavLink>
                 </div>
             </header>
         </>
