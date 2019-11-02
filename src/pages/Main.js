@@ -8,7 +8,7 @@ const Main = () => {
                 <h1 data-text="Hi there, I'm Krzysztof" className={styles.author__title}>Hi there, I'm Krzysztof </h1>
                 <div className={styles.author__img}></div>
                 <p className={styles.author__description}>
-                    I’m an aspiring <b>FrontEnd Developer</b> and absolutly crazy about fishing and cooking. Moreover I am intrested in<b>UX/UI</b> and web design of general meaning.
+                    I’m an aspiring <b>FrontEnd Developer</b> and absolutly crazy about fishing and cooking. Moreover I am intrested in <b>UX/UI</b> and web design of general meaning.
                 </p>
                 <p className={styles.author__description}>
                     You might be interested in checking the list of my skills. Don’t forget to  have a glimpse of my projects. Currently I’m looking for a new challenges so if you have one - please contact with me.
