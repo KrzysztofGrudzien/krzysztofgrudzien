@@ -1,6 +1,7 @@
 import React from 'react';
 import styles from '../Sass/Components/Works.module.scss';
 import criscode from '../assets/images/criscode.jpg';
+import jokesapi from '../assets/images/jokesapi.jpg';
 import guessNumber from '../assets/images/guess-number.jpg';
 import fishingAdventure from '../assets/images/fishing.jpg';
 import hydrApp from '../assets/images/hydrapp.jpg';
@@ -26,6 +27,7 @@ import iconDemo from '../assets/images/demo-icon.svg';
 //     { id: 193562233, name: "wtf-form", image: wtfForm },
 //     { id: 202035043, name: "wtf-program-tranning", image: wtfProgramTranning },
 //     { id: 202032923, name: "rest-api", image: defaultImage },
+//     { id: 219363883, name: "Jokes-Rest-Api", image: 
 //     { id: null, name: null }
 // ]
 const RepositoryList = props => {
@@ -50,6 +52,8 @@ const RepositoryList = props => {
             return wtfForm
         } else if (props.id === 202035043) {
             return wtfProgramTranning
+        } else if (props.id === 219363883) {
+            return jokesapi
         } else {
             return defaultImage
         }
