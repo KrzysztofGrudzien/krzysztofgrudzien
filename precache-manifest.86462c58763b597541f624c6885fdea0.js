@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "382eb9a9b726806ba94e66ac64f32259",
+    "revision": "19b8a5ce684863948068cf0ca2f269ed",
     "url": "/index.html"
   },
   {
-    "revision": "8419abdd38ca52647086",
+    "revision": "69227725bc7bd4d359ae",
     "url": "/static/css/main.f90b9dd3.chunk.css"
   },
   {
-    "revision": "1a1ffa06caa1df538a12",
-    "url": "/static/js/2.4f88121b.chunk.js"
+    "revision": "aeec9b77f63bfba3bc3f",
+    "url": "/static/js/2.d4ed93ca.chunk.js"
   },
   {
-    "revision": "8419abdd38ca52647086",
-    "url": "/static/js/main.43c7d2aa.chunk.js"
+    "revision": "69227725bc7bd4d359ae",
+    "url": "/static/js/main.7a77ce0d.chunk.js"
   },
   {
     "revision": "d8e4b5f6e2b59cff49ca",
@@ -102,6 +102,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "704ae428d2236b7deef98dd5d5d32808",
     "url": "/static/media/hydrapp.704ae428.jpg"
+  },
+  {
+    "revision": "f3603d7e6e3e7182b1a7b816efb82d8a",
+    "url": "/static/media/jokesapi.f3603d7e.jpg"
   },
   {
     "revision": "825fbe0039e0001a0c4177d4b1aa175c",
