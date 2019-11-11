@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import styles from '../Sass/Components/Works.module.scss';
 import RepositoryList from '../components/RepositoryList';
 
-const API = "https://api.github.com/users/krzysztofgrudzien/repos";
+const API = "https://api.github.com/users/krzysztofgrudzien/repos?sort=updated";
 class Works extends Component {
     state = {
         data: [],
