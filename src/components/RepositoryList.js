@@ -13,6 +13,7 @@ import businessCard from '../assets/images/businessCard.jpg';
 import defaultImage from '../assets/images/default.jpg';
 import iconCode from '../assets/images/code-icon.svg';
 import iconDemo from '../assets/images/demo-icon.svg';
+import webpack from '../assets/images/webpack.jpg';
 
 // temporary preview of data
 // const data = [
@@ -27,7 +28,8 @@ import iconDemo from '../assets/images/demo-icon.svg';
 //     { id: 193562233, name: "wtf-form", image: wtfForm },
 //     { id: 202035043, name: "wtf-program-tranning", image: wtfProgramTranning },
 //     { id: 202032923, name: "rest-api", image: defaultImage },
-//     { id: 219363883, name: "Jokes-Rest-Api", image: 
+//     { id: 219363883, name: "Jokes-Rest-Api", image: }
+//     { id: 221041453, name: "Webpack-starterkit", image: webpack}
 //     { id: null, name: null }
 // ]
 const RepositoryList = props => {
@@ -54,6 +56,8 @@ const RepositoryList = props => {
             return wtfProgramTranning
         } else if (props.id === 219363883) {
             return jokesapi
+        } else if (props.id === 221041453) {
+            return webpack
         } else {
             return defaultImage
         }
