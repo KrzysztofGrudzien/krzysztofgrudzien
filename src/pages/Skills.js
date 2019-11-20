@@ -12,7 +12,11 @@ const listWorkingKnowledge = [
     { name: "Forms" },
     { name: "Sass" },
     { name: "DOM Manipulation" },
-    { name: "BEM" }
+    { name: "WordPress" },
+    { name: "BEM" },
+    { name: "CSS Modules" },
+    { name: "Slack" },
+    { name: "Trello" },
 ]
 
 const listKnowSomething = [
@@ -24,23 +28,23 @@ const listKnowSomething = [
     { name: "Git" },
     { name: "Accesibility" },
     { name: "Optimalization" },
-    { name: "WordPress" },
     { name: "NPM" },
     { name: "Gulp" },
-    { name: "Bootstrap" }
+    { name: "Bootstrap" },
+    { name: "Webpack" }
 ]
 
 const listToLearn = [
-    { name: "Advance React.jsConcept" },
+    { name: "Advance React.js concept" },
     { name: "Vue.js" },
     { name: "GraphQL" },
     { name: "TypeScript" },
     { name: "Node.js" },
     { name: "Express.js" },
     { name: "Databases" },
-    { name: "Webpack" },
+    { name: "Advance Webpack concept" },
     { name: "Gatsby" },
-    { name: "React Native" },
+    { name: "React Native or Flutter" },
     { name: "Advance JS Concept" },
     { name: "Advance Git Concept" },
     { name: "Data Visualization" },
@@ -55,13 +59,11 @@ const listToLearn = [
 
 const listCurrentLearning = [
     { name: "React.js" },
-    { name: "Routing in the React.js" },
     { name: "CSS Animations" },
     { name: "ES6+" },
     { name: "REST API" },
     { name: "Webdesign" },
     { name: "UX/UI" },
-    { name: "Git - group working" },
 ]
 const Skills = () => {
     const itemsWorkingKnowledge = listWorkingKnowledge.map(item => (
