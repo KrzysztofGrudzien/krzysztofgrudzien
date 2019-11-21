@@ -78,7 +78,7 @@ const ITRoadMap = () => {
                                 </ul>
                             </article>
                             <div className={styles.time}>
-                                <h3 className={styles.time__title}>Current time</h3>
+                                <h3 className={styles.time__title}>November 2019</h3>
                             </div>
                         </li>
                         <li className={styles.timeline__item}>
