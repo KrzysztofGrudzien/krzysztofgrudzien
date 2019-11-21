@@ -11,7 +11,7 @@ const ITRoadMap = () => {
                         <li className={styles.timeline__item}>
                             <article className={styles.article}>
                                 <h2 className={styles.article__title}>Hobby</h2>
-                                <p className={styles.article__description}>Here, I didn't suppose I want to be a programmer. I've started learning HTML, CSS, JS, PHP, MYSQL, ACTION SCRIPT, JAVA, and many different languages. I didn't mention I've started using graphics programs like Adobe CS, Gimp etc, but ... . Many times I had to stop my learning and started again. My personal life prevented continouse learning. In short, the main thing I've learnt for those years - don't give up and don't use many languages and tools before you master the next one.</p>
+                                <p className={styles.article__description}>Here, I didn't suppose I want to be a programmer. I've started learning HTML, CSS, JS, PHP, MYSQL, ACTION SCRIPT, JAVA, CMS like WORDPRESS and many different languages. I didn't mention I've started using graphics programs like Adobe CS, Gimp etc, but ... . Many times I had to stop my learning and started again. My personal life prevented continouse learning. In short, the main thing I've learnt for those years - don't give up and don't use many languages and tools before you master the next one.</p>
                             </article>
                             <div className={styles.time}>
                                 <h3 className={styles.time__title}>to summer 2017</h3>
@@ -19,8 +19,8 @@ const ITRoadMap = () => {
                         </li>
                         <li className={styles.timeline__item}>
                             <article className={styles.article}>
-                                <h2 className={styles.article__title}>FrontEnd or BACKEND</h2>
-                                <p className={styles.article__description}>I thought about it a lot. I've started learning JAVA and HTML, CSS, JS in the same time. The choose was very easy. Backend is not for me. I have to see my works in action. I love design and interaction. My projects have to live and people seeing it have to say - o f... It's look great. That's way I've chosen frontend. I've started using many courses from EDUWEB.PL and UDEMY.COM. because only what I did before it was only watching and collecting them on my disk.</p>
+                                <h2 className={styles.article__title}>FrontEnd or BackEnd</h2>
+                                <p className={styles.article__description}> Next fight! I thought about it a lot. I've started learning JAVA and HTML, CSS, JS in the same time. The choose was very easy. Backend is not for me. I have to see my works in action. I love design and interaction. My projects have to live and people seeing it have to say - o f... It's look great. That's way I've chosen frontend. I've started using many courses from EDUWEB.PL and UDEMY.COM. because only what I did before it was only watching and collecting them on my disk.</p>
                                 <h3 className={styles.article__titleList}>Chosen topics</h3>
                                 <ul className={styles.article__list}>
                                     <li className={styles.article__item}>Learning BEM</li>
@@ -46,6 +46,7 @@ const ITRoadMap = () => {
                                 <h3 className={styles.article__titleList}>Chosen topics</h3>
                                 <ul className={styles.article__list}>
                                     <li className={styles.article__item}>BEM</li>
+                                    <li className={styles.article__item}>JS ES6+</li>
                                     <li className={styles.article__item}>Flex Box and Grid</li>
                                     <li className={styles.article__item}>JSON and REST API</li>
                                     <li className={styles.article__item}>CSS animations and SVG</li>
@@ -77,7 +78,27 @@ const ITRoadMap = () => {
                                 </ul>
                             </article>
                             <div className={styles.time}>
-                                <h3 className={styles.time__title}>November 2019</h3>
+                                <h3 className={styles.time__title}>Current time</h3>
+                            </div>
+                        </li>
+                        <li className={styles.timeline__item}>
+                            <article className={styles.article}>
+                                <h2 className={styles.article__title}>Every Day Life</h2>
+                                <p className={styles.article__description}>What can I say. I am very happy I am here. I try to explore frontend/webdesign areas and expand my knowledge.</p>
+                                <h3 className={styles.article__titleList}>Chosen topics</h3>
+                                <ul className={styles.article__list}>
+                                    <li className={styles.article__item}>React.js</li>
+                                    <li className={styles.article__item}>JavaScript ES5,6,7,8,9...</li>
+                                    <li className={styles.article__item}>WordPress</li>
+                                    <li className={styles.article__item}>Adobe XD / Figma</li>
+                                    <li className={styles.article__item}>CSS3</li>
+                                    <li className={styles.article__item}>Animations</li>
+                                    <li className={styles.article__item}>Webpack</li>
+                                    <li className={styles.article__item}>GIT</li>
+                                </ul>
+                            </article>
+                            <div className={styles.time}>
+                                <h3 className={styles.time__title}>to 20.. ?</h3>
                             </div>
                         </li>
                         <div className={styles.timeline__clearFix}></div>
