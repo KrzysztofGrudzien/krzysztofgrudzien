@@ -14,6 +14,7 @@ import defaultImage from '../assets/images/default.jpg';
 import iconCode from '../assets/images/code-icon.svg';
 import iconDemo from '../assets/images/demo-icon.svg';
 import webpack from '../assets/images/webpack.jpg';
+import remontlazienki from '../assets/images/remontlazienki.jpg';
 
 // temporary preview of data
 // const data = [
@@ -30,6 +31,7 @@ import webpack from '../assets/images/webpack.jpg';
 //     { id: 202032923, name: "rest-api", image: defaultImage },
 //     { id: 219363883, name: "Jokes-Rest-Api", image: }
 //     { id: 221041453, name: "Webpack-starterkit", image: webpack}
+//     { id: 222024050, name: "Remont-Lazienki", image: remontlazienki }
 //     { id: null, name: null }
 // ]
 const RepositoryList = props => {
@@ -58,6 +60,8 @@ const RepositoryList = props => {
             return jokesapi
         } else if (props.id === 221041453) {
             return webpack
+        } else if (props.id === 222024050) {
+            return remontlazienki
         } else {
             return defaultImage
         }
