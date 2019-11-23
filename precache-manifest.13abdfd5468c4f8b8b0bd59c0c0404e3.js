@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10f0f91c98ac650a0d7d6bf3c8757ab9",
+    "revision": "af1c6dd892ce609fc7916515d8578b49",
     "url": "/index.html"
   },
   {
-    "revision": "1fd69f28c71b176f91f6",
+    "revision": "93f6afaf1d2cacd333ee",
     "url": "/static/css/main.f90b9dd3.chunk.css"
   },
   {
-    "revision": "ef368c4130d296d14edb",
-    "url": "/static/js/2.83ee6624.chunk.js"
+    "revision": "3ca7c2c09bbf6287d46a",
+    "url": "/static/js/2.e51bcd84.chunk.js"
   },
   {
-    "revision": "1fd69f28c71b176f91f6",
-    "url": "/static/js/main.bbfef01b.chunk.js"
+    "revision": "93f6afaf1d2cacd333ee",
+    "url": "/static/js/main.d21ffb91.chunk.js"
   },
   {
     "revision": "d8e4b5f6e2b59cff49ca",
@@ -122,6 +122,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71ff58c6f2699c8e8e54f34d7acbfafb",
     "url": "/static/media/programming.71ff58c6.jpg"
+  },
+  {
+    "revision": "e396f969ebf55fb7912367f456be43c1",
+    "url": "/static/media/remontlazienki.e396f969.jpg"
   },
   {
     "revision": "73ded10296190178a44f8a569bcd59cf",
